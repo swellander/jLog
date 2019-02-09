@@ -1,0 +1,9 @@
+type Query {
+  algos: [Algo]
+}
+
+type Algo {
+  difficulty: String!
+  source: String!
+  type: String!
+}

@@ -1,0 +1,16 @@
+{
+  "name": "jlog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/swellander/jLog.git",
+  "author": "<samwellander@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src",
+    "prisma": "prisma"
+  },
+  "dependencies": {
+    "graphql-yoga": "^1.17.4",
+    "prisma-client-lib": "^1.26.4"
+  }
+}
